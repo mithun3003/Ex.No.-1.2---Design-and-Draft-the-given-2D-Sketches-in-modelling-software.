@@ -37,7 +37,8 @@
 
  ## OUTPUT
  
- <img width="896" height="634" alt="image" src="https://github.com/user-attachments/assets/60c1ccc4-1405-46ba-aaee-9819d781b142" />
+ <img width="893" height="635" alt="image" src="https://github.com/user-attachments/assets/b21a4cb6-b90d-4fdb-830d-3c33c067716b" />
+
 
  
  ## RESULT
